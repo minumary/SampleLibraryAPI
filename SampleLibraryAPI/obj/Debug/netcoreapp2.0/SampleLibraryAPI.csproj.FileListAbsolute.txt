@@ -1,0 +1,11 @@
+C:\Users\Minu\Desktop\NetCore\SampleLibraryAPI\SampleLibraryAPI\bin\Debug\netcoreapp2.0\SampleLibraryAPI.deps.json
+C:\Users\Minu\Desktop\NetCore\SampleLibraryAPI\SampleLibraryAPI\bin\Debug\netcoreapp2.0\SampleLibraryAPI.runtimeconfig.json
+C:\Users\Minu\Desktop\NetCore\SampleLibraryAPI\SampleLibraryAPI\bin\Debug\netcoreapp2.0\SampleLibraryAPI.runtimeconfig.dev.json
+C:\Users\Minu\Desktop\NetCore\SampleLibraryAPI\SampleLibraryAPI\bin\Debug\netcoreapp2.0\SampleLibraryAPI.dll
+C:\Users\Minu\Desktop\NetCore\SampleLibraryAPI\SampleLibraryAPI\bin\Debug\netcoreapp2.0\SampleLibraryAPI.pdb
+C:\Users\Minu\Desktop\NetCore\SampleLibraryAPI\SampleLibraryAPI\obj\Debug\netcoreapp2.0\SampleLibraryAPI.csprojResolveAssemblyReference.cache
+C:\Users\Minu\Desktop\NetCore\SampleLibraryAPI\SampleLibraryAPI\obj\Debug\netcoreapp2.0\SampleLibraryAPI.csproj.CoreCompileInputs.cache
+C:\Users\Minu\Desktop\NetCore\SampleLibraryAPI\SampleLibraryAPI\obj\Debug\netcoreapp2.0\SampleLibraryAPI.AssemblyInfoInputs.cache
+C:\Users\Minu\Desktop\NetCore\SampleLibraryAPI\SampleLibraryAPI\obj\Debug\netcoreapp2.0\SampleLibraryAPI.AssemblyInfo.cs
+C:\Users\Minu\Desktop\NetCore\SampleLibraryAPI\SampleLibraryAPI\obj\Debug\netcoreapp2.0\SampleLibraryAPI.dll
+C:\Users\Minu\Desktop\NetCore\SampleLibraryAPI\SampleLibraryAPI\obj\Debug\netcoreapp2.0\SampleLibraryAPI.pdb
